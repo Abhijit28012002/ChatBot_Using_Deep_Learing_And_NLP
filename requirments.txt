@@ -1,7 +1,6 @@
 Flask
-keras
+keras==2.13.1
 nltk
-numpy
+numpy==1.23.0
 pickle5
-tensorflow
-
+tensorflow==2.13.1
